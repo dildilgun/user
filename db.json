@@ -2,6 +2,6 @@
   "users":
     {
       "UserId": "test",
-      "UserPassword": "sasa"
+      "UserPassword": 1234
     }
 }

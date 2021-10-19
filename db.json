@@ -1,17 +1,19 @@
 {
-  "UserId": [
-    "test",
-    "admin",
-    "hjlee"
-  ],
-  "UserPassword": [
-    "1234",
-    "1234",
-    "1234"
-  ],
-  "UserName": [
-    "테스트",
-    "관리자",
-    "이형주"
-  ]
+  "users" : {
+    "UserId": [
+      "test",
+      "admin",
+      "hjlee"
+    ],
+    "UserPassword": [
+      "1234",
+      "1234",
+      "1234"
+    ],
+    "UserName": [
+      "테스트",
+      "관리자",
+      "이형주"
+    ]
+  }
 }
